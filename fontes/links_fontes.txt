@@ -1,0 +1,157 @@
+🏛️ Instituições Oficiais (1–10)
+text
+1. Banco Central do Brasil – Educação Financeira
+https://www.bcb.gov.br/cidadaniafinanceira
+text
+2. Banco Central do Brasil – Relatório de Inflação
+https://www.bcb.gov.br/publicacoes/relatorioinflacao
+text
+3. Banco Central do Brasil – Sistema Financeiro Nacional
+https://www.bcb.gov.br/estabilidadefinanceira/sfn
+text
+4. Comissão de Valores Mobiliários (CVM) – Portal do Investidor
+https://www.investidor.gov.br
+text
+5. Comissão de Valores Mobiliários (CVM) – Guia do Investidor
+https://conteudo.cvm.gov.br/educacao/guias.html
+text
+6. B3 – Educação Financeira
+https://edu.b3.com.br
+text
+7. Tesouro Direto – Guia Oficial
+https://www.tesourodireto.com.br
+text
+8. Receita Federal – Tributação de Investimentos
+https://www.gov.br/receitafederal/pt-br/assuntos/renda-de-investimentos
+text
+9. IBGE – Indicadores Econômicos
+https://www.ibge.gov.br/indicadores
+text
+10. Conselho Monetário Nacional (CMN)
+https://www.bcb.gov.br/estabilidadefinanceira/cmn
+📖 Livros Fundamentais (11–20)
+text
+11. O Investidor Inteligente – Benjamin Graham
+https://www.amazon.com.br/Investidor-Inteligente-Benjamin-Graham/dp/8550805240
+text
+12. Security Analysis – Benjamin Graham
+https://www.amazon.com/Security-Analysis-Sixth-Benjamin-Graham/dp/0071592538
+text
+13. One Up On Wall Street – Peter Lynch
+https://www.amazon.com/One-Up-Wall-Street-English-ebook/dp/B000SEGE2A
+text
+14. Beating the Street – Peter Lynch
+https://www.amazon.com/Beating-Street-Peter-Lynch/dp/0671891634
+text
+15. The Most Important Thing – Howard Marks
+https://www.amazon.com/Most-Important-Thing-Thoughtful-Investor/dp/0231153865
+text
+16. Princípios (Principles) – Ray Dalio
+https://www.amazon.com.br/Princ%C3%ADpios-Ray-Dalio/dp/8551003659
+text
+17. A Psicologia Financeira – Morgan Housel
+https://www.amazon.com.br/Psicologia-financeira-li%C3%A7%C3%B5es-atemporais-felicidade/dp/6555111246
+text
+18. Common Stocks and Uncommon Profits – Philip Fisher
+https://www.amazon.com/Common-Stocks-Uncommon-Profits-Writings/dp/0471119289
+text
+19. The Essays of Warren Buffett
+https://www.amazon.com/Essays-Warren-Buffett-Lessons-Corporate/dp/0966446146
+text
+20. The Little Book of Common Sense Investing – John C. Bogle
+https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509
+🇧🇷 Grandes Investidores Brasileiros (21–30)
+text
+21. Luiz Barsi – entrevistas completas
+https://www.revistari.com.br (buscar por "Luiz Barsi")
+text
+22. Luiz Barsi – filosofia Buy and Hold
+https://www.infomoney.com.br (buscar por "Luiz Barsi")
+text
+23. Luiz Barsi – dividendos
+https://exame.com (buscar por "Luiz Barsi dividendos")
+text
+24. Thiago Nigro – Do Mil ao Milhão
+https://www.amazon.com.br/Mil-ao-Milh%C3%A3o-sem-Cortar-Cafezinho/dp/8595085218
+text
+25. Thiago Nigro – artigos e conteúdos educativos
+https://www.prorico.com.br
+text
+26. Flávio Augusto – Geração de Valor
+https://www.amazon.com.br/Gera%C3%A7%C3%A3o-Valor-Compartilhando-Inspira%C3%A7%C3%A3o-Vol/dp/8567564018
+text
+27. Tallis Gomes – Nada Easy
+https://www.amazon.com.br/Nada-Easy-passo-combinei-criatividade/dp/8556080474
+text
+28. Guilherme Benchimol – entrevistas e artigos
+https://www.xp.com.br (buscar por "Guilherme Benchimol")
+text
+29. Luis Stuhlberger – cartas aos investidores
+https://www.verdeasset.com.br (buscar por "Cartas")
+text
+30. André Esteves – palestras e entrevistas
+https://www.youtube.com/results?search_query=Andr%C3%A9+Esteves+BTG
+🏦 Grandes Gestoras (31–36)
+text
+31. Cartas da Verde Asset
+https://www.verdeasset.com.br (buscar por "Cartas")
+text
+32. Cartas da XP Asset
+https://conteudos.xpi.com.br (buscar por "Relatórios")
+text
+33. Cartas do BTG Pactual Asset
+https://content.btgpactual.com (buscar por "Research")
+text
+34. Cartas da Itaú Asset
+https://www.itauasset.com (buscar por "Relatórios")
+text
+35. BlackRock Investment Institute
+https://www.blackrock.com/investment-institute
+text
+36. Vanguard Research
+https://corporate.vanguard.com/research
+🌍 Economia (37–42)
+text
+37. Economia Básica – Thomas Sowell
+https://www.amazon.com.br/Economia-B%C3%A1sica-Thomas-Sowell/dp/8595084858
+text
+38. Freakonomics – Steven Levitt
+https://www.amazon.com.br/Freakonomics-Steven-D-Levitt/dp/8532511537
+text
+39. Capitalismo e Liberdade – Milton Friedman
+https://www.amazon.com.br/Capitalismo-Liberdade-Milton-Friedman/dp/8531600213
+text
+40. The Wealth of Nations (A Riqueza das Nações) – Adam Smith
+https://www.amazon.com/Wealth-Nations-Adam-Smith/dp/1505577125
+text
+41. FMI (Fundo Monetário Internacional) – Relatórios Econômicos
+https://www.imf.org/en/Publications
+text
+42. Banco Mundial – Relatórios Econômicos
+https://www.worldbank.org/en/publication
+🧠 Psicologia e Tomada de Decisão (43–46)
+text
+43. Thinking, Fast and Slow (Rápido e Devagar) – Daniel Kahneman
+https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555
+text
+44. Nudge – Richard Thaler
+https://www.amazon.com.br/Nudge-Improving-Decisions-Health-Happiness/dp/014313700X
+text
+45. Charlie Munger – Poor Charlie's Almanack
+https://www.amazon.com/Poor-Charlies-Almanack-Charles-Munger/dp/1578645015
+text
+46. Warren Buffett – Cartas Anuais aos Acionistas da Berkshire Hathaway
+https://www.berkshirehathaway.com/letters/letters.html
+🚀 Empreendedorismo e Construção de Riqueza (47–50)
+text
+47. Jorge Paulo Lemann – entrevistas e palestras
+https://www.hbs.edu/creating-emerging-markets/Pages/default.aspx
+text
+48. Marcel Telles – entrevistas
+https://epocanegocios.globo.com/Empresa/noticia/2015/06/aqui-gente-da-o-osso-maior-do-que-o-cara-pode-roer-e-ve-se-ele-consegue.html
+text
+49. Carlos Alberto Sicupira – entrevistas
+https://economia.uol.com.br/noticias/redacao/2026/06/25/quem-e-beto-sicupira-bilionario-socio-da-ab-inbev-e-do-3g-capital.htm
+text
+50. Harvard Business Review – Finanças e Estratégia
+https://hbr.org/topic/finance
