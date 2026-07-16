@@ -1,0 +1,72 @@
+============================================================
+ PROMPTS REUTILIZÁVEIS – CADERNO TEMÁTICO FINANÇAS
+ Baseado na tabela do README.md
+============================================================
+
+------------------------------------------------------------
+ 1. DEFINIÇÃO DE CONCEITOS COM CITAÇÃO
+------------------------------------------------------------
+
+"Explique o conceito de [termo] com base nas fontes carregadas,
+citando o documento e a página."
+
+📌 Exemplo:
+"Explique o conceito de margem de segurança com base nas fontes
+carregadas, citando o documento e a página."
+
+------------------------------------------------------------
+ 2. ANÁLISE COMPARATIVA ENTRE AUTORES
+------------------------------------------------------------
+
+"Compare a visão de [autor A] com a de [autor B] sobre [tema]."
+
+📌 Exemplo:
+"Compare a visão de Benjamin Graham com a de Peter Lynch sobre
+seleção de ações."
+
+------------------------------------------------------------
+ 3. SÍNTESE EM TÓPICOS
+------------------------------------------------------------
+
+"Liste em tópicos os principais pontos sobre [tema] extraídos
+das fontes."
+
+📌 Exemplo:
+"Liste em tópicos os principais pontos sobre educação financeira
+extraídos das fontes."
+
+------------------------------------------------------------
+ 4. DESCRIÇÃO DETALHADA COM CITAÇÃO DE PÁGINA E PARÁGRAFO
+------------------------------------------------------------
+
+"Com base no PDF [título], descreva [tema] e cite a página e o
+parágrafo."
+
+📌 Exemplo:
+"Com base no PDF 'O Investidor Inteligente', descreva o conceito
+de margem de segurança e cite a página e o parágrafo."
+
+------------------------------------------------------------
+ 5. SIMULAÇÃO PRÁTICA DE INVESTIMENTO
+------------------------------------------------------------
+
+"Simule um investimento de R$ X em [ativo] por Y meses,
+considerando as regras da fonte."
+
+📌 Exemplo:
+"Simule um investimento de R$ 1.000,00 em Tesouro Selic por 12
+meses, considerando as regras da fonte."
+
+============================================================
+ OBSERVAÇÃO IMPORTANTE
+============================================================
+
+Para melhores resultados, sempre anteceda os prompts com:
+→ "Com base nas fontes carregadas"
+→ "Cite a fonte com página e parágrafo" (quando aplicável)
+
+Esses prompts são os mínimos exigidos pelo desafio e estão
+diretamente alinhados com a seção "Prompts Reutilizáveis" do
+README.md do repositório.
+
+============================================================
